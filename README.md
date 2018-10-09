@@ -51,11 +51,10 @@ You can download the latest nGrinder in the following link.
 Documentation
 -------------
 You can find the installation guide at the following link.
-* https://github.com/naver/ngrinder/wiki/Installation-Guide
+* https://github.com/GongHG/ngrinder/wiki/Installation-Guide
 
 You can find the user guide at the following location link.
-* https://github.com/naver/ngrinder/wiki/User-Guide
-
+* https://github.com/GongHG/ngrinder/wiki/User-Guide 
 
 
 Contribution?
