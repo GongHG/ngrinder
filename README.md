@@ -10,16 +10,16 @@ nGrinder is a platform for stress tests that enables you to execute script creat
 
 
 Want to know what's changed from the original grinder platform?
- * Checkout https://github.com/naver/ngrinder/wiki/Architecture !
+ * Checkout https://github.com/GongHG/ngrinder/wiki/Architecture !
 
 To get to know what's different from previous ngrinder 2.0?
  * Checkout http://www.slideshare.net/junhoyoon3994/ngrinder-30-load-test-even-kids-can-do !
 
 To get started,
- * Checkout https://github.com/naver/ngrinder/wiki/User-Guide !
+ * Checkout https://github.com/GongHG/ngrinder/wiki/User-Guide !
 
 You can find out what nGrinder looks like with screen-shot.
- * https://github.com/naver/ngrinder/wiki/Screen-Shot
+ * https://github.com/GongHG/ngrinder/wiki/Screen-Shot
 
 nGrinder consists of two major components. 
 
@@ -46,7 +46,7 @@ Download
 --------
 
 You can download the latest nGrinder in the following link. 
-* https://github.com/naver/ngrinder/releases
+* https://github.com/GongHG/ngrinder/releases
 
 Documentation
 -------------
